@@ -28,3 +28,4 @@ A state has 4 requirements:
 If you'd like to contribute simply create a pull request with your changes and I'll have a look at it.
 
 ## License
+The contents of this repository is licensed under the MIT license.
