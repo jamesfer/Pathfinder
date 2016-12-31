@@ -1,0 +1,11 @@
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sdf
+*.sln
+*.vcxproj.filters
+*.vcxproj
+Debug/
+Release/
