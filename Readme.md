@@ -27,4 +27,4 @@ A state has 4 requirements:
 ## Contributing
 If you'd like to contribute simply create a pull request with your changes and I'll have a look at it.
 
-## Licence
+## License
